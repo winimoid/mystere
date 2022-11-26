@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1657131700 source:/home/wini/Documents/My School Projects/C++/mystere/main.cpp
+	<iostream>
+	"myst.h"
+	<fstream>
+
+1657131700 /home/wini/Documents/My School Projects/C++/mystere/myst.h
+	<iostream>
+
+1657131725 source:/home/wini/Documents/My School Projects/C++/mystere/myst.cpp
+	"myst.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
